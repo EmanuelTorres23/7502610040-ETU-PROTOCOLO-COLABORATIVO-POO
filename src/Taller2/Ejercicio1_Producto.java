@@ -1,4 +1,4 @@
-package Taller1;
+package Taller2;
 
 public class Ejercicio1_Producto {
     private String nombre;
