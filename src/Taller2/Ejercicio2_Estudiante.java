@@ -14,8 +14,7 @@ public class Ejercicio2_Estudiante {
     }
 
     public static void main(String[] args) {
-        Ejercicio2_Estudiante est = new Ejercicio2_Estudiante("Isaac", 4.5);
+        Ejercicio2_Estudiante est = new Ejercicio2_Estudiante("Emanuel", 4.5);
         est.mostrarEstado();
-        System.out.println("¡Ejercicio 2 funcionando!");
     }
 }
