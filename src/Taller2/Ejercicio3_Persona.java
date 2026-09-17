@@ -16,6 +16,5 @@ public class Ejercicio3_Persona {
     public static void main(String[] args) {
         Ejercicio3_Persona per = new Ejercicio3_Persona("Emanuel", 20);
         per.saludar();
-        System.out.println("¡Ejercicio 3 funcionando!");
     }
 }
